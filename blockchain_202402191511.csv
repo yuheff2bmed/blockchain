@@ -1,0 +1,11 @@
+"cargo","governmental","departure","arrival","destination","startingpoint","dangerous"
+Fuel,true,2024-02-11,2024-02-18,Tomsk,Moscow,true
+Elephant,false,2024-01-01,2024-01-02,Moscow,Sochi,false
+Money,true,2023-11-11,2023-11-12,St.Petersburg,Tula,false
+Chemicals,false,2023-08-05,2023-08-25,Samara,Vladivostok,true
+Tank,true,2024-01-08,2024-01-10,Tolyatti,Donetsk,true
+Special cargo,true,2024-01-23,2024-01-24,Moscow,St. Petersburg,false
+Water,false,2024-02-15,2024-02-18,Perm,Saratov,false
+Livestock,false,2024-01-31,2024-02-02,Novosibirsk,Omsk,false
+Coal,true,2024-01-08,2024-01-20,Orel,Bryansk,false
+Grain,true,2024-02-29,2024-04-11,Krasnodar,Ankara,false
